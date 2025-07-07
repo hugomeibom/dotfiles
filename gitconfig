@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = hugo.meibom@gmx.de
+	email = @users.noreply.github.com
 	name = Hugo Meibom
